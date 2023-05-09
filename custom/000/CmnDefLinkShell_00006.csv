@@ -69,7 +69,7 @@ int32,str,str
 64,"TEXT_CMNDEFLINKSHELL_00006_CHAT_GUIDE_003_SYS","也可以从通讯贝列表中选择想要发言的通讯贝，<hex:02100103>点击次级指令中的“在此通讯贝中发言”来进行发言。"
 65,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_001","创建通讯贝的人会成为“管理员”，<hex:02100103>拥有邀请、删除成员的权利。"
 66,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_002","另外，“管理员”可以选择自己通讯贝中的成员，<hex:02100103>任命为“队长”。"
-67,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_003","“队长”拥有和“管理员”同样的邀请、删除成员的权利。<hex:02100103>可是说是“管理员”的助手。"
+67,"TEXT_CMNDEFLINKSHELL_00006_LEADER_GUIDE_003","“队长”拥有和“管理员”同样的邀请、删除成员的权利。<hex:02100103>可以说是“管理员”的助手。"
 68,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_001","可以随时退出通讯贝。"
 69,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_002_SYS","从通讯贝列表中选择想要退出的通讯贝，<hex:02100103>点击次级指令中的“退出”，<hex:02100103>就可以退出通讯贝。"
 70,"TEXT_CMNDEFLINKSHELL_00006_LEAVE_GUIDE_003_SYS","如果想要退出自己担任“管理员”的通讯贝，<hex:02100103>则需要提前将“管理员”的权限转让给其他成员。"

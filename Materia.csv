@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
-#,Item[0],Item[1],Item[2],Item[3],Item[4],Item[5],Item[6],Item[7],Item[8],Item[9],BaseParam,Value[0],Value[1],Value[2],Value[3],Value[4],Value[5],Value[6],Value[7],Value[8],Value[9]
+#,Item[0],Item[1],Item[2],Item[3],Item[4],Item[5],Item[6],Item[7],Item[8],Item[9],,,,,,,BaseParam,Value[0],Value[1],Value[2],Value[3]
 offset,0,4,8,12,16,20,24,28,32,36,60,40,42,44,46,48,50,52,54,56,58
-int32,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,BaseParam,int16,int16,int16,int16,int16,int16,int16,int16,int16,int16
+int32,Item,Item,Item,Item,Item,Item,Item,Item,Item,Item,byte,int16,int16,int16,int16,int16,BaseParam,int16,int16,int16,int16
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,5724,5725,5726,5727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2,5604,5605,5606,5607,5608,18006,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

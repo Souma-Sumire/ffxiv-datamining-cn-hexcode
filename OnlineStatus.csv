@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4
-#,List,,Priority,Name,Icon
+#,,List,,Priority,Icon
 offset,9,9,8,0,4
 int32,bit&01,bit&02,byte,str,Image
 0,False,False,0,"",0

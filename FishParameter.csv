@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Text,Item,GatheringItemLevel,,IsHidden,,FishingRecordType,,FishingSpot,GatheringSubCategory,IsInLog,TimeRestricted,WeatherRestricted,
+#,Text,Item,GatheringItemLevel,OceanStars,IsHidden,FishingRecordType,FishingSpot,GatheringSubCategory,IsInLog,AchievementCredit,,,,
 offset,0,8,16,22,24,24,23,12,18,20,24,24,24,4
-int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordType,int32,FishingSpot,GatheringSubCategory,bit&04,bit&08,bit&10,uint32
+int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,FishingRecordType,FishingSpot,GatheringSubCategory,uint16,uint16,bit&04,bit&08,bit&10,uint32
 0,"",0,0,0,False,False,0,0,0,0,True,False,False,0
 1,"据说这种海带能够成长到1星里（约1600米）之长，在艾欧泽亚的五大海区均有分布。",4776,4,0,False,False,0,0,36,0,True,False,False,0
 2,"一种食欲特别旺盛的水生动物，据说钓上它甚至都不需要用钓钩。只要眼前出现了活动的东西，一律会用螯爪先抓住再说。",4925,2,0,False,False,2,0,2,0,True,False,False,0

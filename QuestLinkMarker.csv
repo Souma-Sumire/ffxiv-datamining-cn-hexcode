@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
-#,,,,,
+#,SourceMap,Level,TargetMap,,
 offset,0,4,8,12,13
-int32,uint32,uint32,uint32,byte,bit&01
+int32,Map,Level,Map,byte,bit&01
 0.0,0,0,0,0,False
 1.0,0,0,0,0,False
 1.1,0,0,0,0,False

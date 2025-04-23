@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,Name,Icon,ClassJob,Level,Quest,Value,ClassJobCategory,,
+#,Name,Icon,ClassJob,,Level,Quest,Value,ClassJobCategory,
 offset,0,8,14,15,16,4,12,17,18
-int32,str,Image,ClassJob,byte,Quest,uint32,ClassJobCategory,byte,byte
+int32,str,Image,ClassJob,byte,byte,Quest,int16,ClassJobCategory,byte
 0,"",0,0,0,0,0,0,0,0
 1,"耐力提高",0,0,0,0,0,0,0,0
 2,"耐力提高II",0,0,0,0,0,0,0,0

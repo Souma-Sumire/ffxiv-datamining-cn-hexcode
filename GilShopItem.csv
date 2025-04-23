@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Item,,,Quest{Required}[0],Quest{Required}[1],Achievement{Required},,State{Required},Patch,
+#,Item,,,,Quest{Required}[0],Quest{Required}[1],Achievement{Required},,State{Required},Patch
 offset,0,23,20,21,4,8,12,22,16,18
-int32,Item,bit&01,byte,Quest,Quest,Achievement,int32,byte,uint16,uint16
+int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262144.0,4594,False,0,0,0,0,0,0,0,0
 262144.1,4595,False,0,0,0,0,0,0,0,0
 262144.2,4596,False,0,0,0,0,0,0,0,0
@@ -7604,7 +7604,7 @@ int32,Item,bit&01,byte,Quest,Quest,Achievement,int32,byte,uint16,uint16
 262634.11,41556,False,0,0,70334,0,0,0,130,700
 262634.12,41557,False,0,0,70334,0,0,0,130,700
 262634.13,41558,False,0,0,70334,0,0,0,130,700
-262634.16,6112,False,0,0,66824,0,0,0,90,0
+262634.14,6112,False,0,0,66824,0,0,0,90,0
 262635.0,15803,False,0,0,0,0,0,0,100,0
 262636.0,15266,False,0,0,0,0,0,0,100,0
 262636.1,15156,False,0,0,0,0,0,0,100,0

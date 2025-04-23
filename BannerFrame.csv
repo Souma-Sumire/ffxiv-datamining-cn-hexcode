@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,Image,Icon,UnlockCondition,SortKey,Name,,,
+#,Image,Icon,,UnlockCondition,,,SortKey,Name
 offset,4,8,20,12,14,16,18,0
-int32,Image,Image,BannerCondition,uint16,uint16,uint16,uint16,str
+int32,Image,Image,byte,BannerCondition,uint16,uint16,uint16,str
 0,0,82092,0,0,0,0,0,"无"
 1,191001,82092,1,1,0,0,1,"无"
 2,191002,82092,1,1,0,0,3,"褪色：黑"

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,Item,Order,Category,
+#,Item,Order,Category,SortKey
 offset,0,4,6,7
 int32,Item,uint16,CabinetCategory,byte
 0,2897,1,1,1

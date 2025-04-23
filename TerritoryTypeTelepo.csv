@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
-#,,,,
+#,X,Y,Expansion,TelepoRelay
 offset,0,2,4,6
-int32,uint16,uint16,uint16,byte
+int32,uint16,uint16,uint16,TelepoRelay
 1,0,0,0,0
 2,0,0,0,0
 3,0,0,0,0

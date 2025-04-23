@@ -1,7 +1,7 @@
 ﻿key,0,1
-#,,
+#,Content[0],Content[1]
 offset,0,2
-int32,uint16,uint16
+int32,CSBonusContent,CSBonusContent
 0.0,0,0
 1.0,1,0
 1.1,2,0
